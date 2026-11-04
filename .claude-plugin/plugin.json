@@ -1,0 +1,27 @@
+{
+  "name": "scrapeatlas",
+  "displayName": "ScrapeAtlas",
+  "version": "1.0.0",
+  "description": "Connect to the ScrapeAtlas MCP server and retrieve public profiles, posts, videos, comments and search results, with skills for setup, profile snapshots, competitor content research and trend scans.",
+  "author": {
+    "name": "ScrapeAtlas",
+    "email": "support@scrapeatlas.com",
+    "url": "https://scrapeatlas.com"
+  },
+  "homepage": "https://scrapeatlas.com/mcp/",
+  "repository": "https://github.com/OnlineDopamine/scrapeatlas-agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "scrapeatlas",
+    "social-data",
+    "public-data",
+    "mcp",
+    "tiktok",
+    "instagram",
+    "youtube"
+  ],
+  "documentationUrl": "https://scrapeatlas.com/docs/",
+  "supportUrl": "https://scrapeatlas.com/contact/",
+  "privacyPolicyUrl": "https://scrapeatlas.com/privacy/",
+  "termsOfServiceUrl": "https://scrapeatlas.com/terms/"
+}
