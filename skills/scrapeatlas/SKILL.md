@@ -29,6 +29,11 @@ If no ScrapeAtlas tools are present:
    (Streamable HTTP).
    - Claude and ChatGPT connectors: add a custom connector with that URL, sign in
      to ScrapeAtlas in the browser and allow the connection.
+   - Claude Code and Codex can sign in through the browser without a key:
+     `claude mcp add --transport http --scope user scrapeatlas https://api.scrapeatlas.com/mcp`
+     then `claude mcp login scrapeatlas`, or
+     `codex mcp add scrapeatlas --url https://api.scrapeatlas.com/mcp` then
+     `codex mcp login scrapeatlas`.
    - Clients that send a header: `Authorization: Bearer <API key>`. In Claude Code:
      `claude mcp add --transport http scrapeatlas https://api.scrapeatlas.com/mcp --header "Authorization: Bearer YOUR_API_KEY"`.
      The user replaces `YOUR_API_KEY` in their own terminal.
