@@ -1,7 +1,7 @@
 {
   "name": "scrapeatlas",
   "displayName": "ScrapeAtlas",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Social media research skills for AI agents: find outlier posts, mine comments, analyze transcripts, tear down Facebook, Instagram and LinkedIn ads, prospect influencers, run social listening and validate product demand with public data from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and 40+ platforms through the ScrapeAtlas MCP server.",
   "author": {
     "name": "ScrapeAtlas",
