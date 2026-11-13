@@ -22,7 +22,7 @@ Hacker News, Quora and 30+ more platforms.
 ## Install
 
 ```bash
-npx skills add OnlineDopamine/social-media-agent-skills
+npx skills add ScrapeAtlas/social-media-agent-skills
 ```
 
 Then connect ScrapeAtlas once, so the skills have data to work with:
@@ -37,7 +37,7 @@ Other options:
 
 - **Claude Code plugin** (skills + MCP server in one step):
   ```bash
-  /plugin marketplace add OnlineDopamine/social-media-agent-skills
+  /plugin marketplace add ScrapeAtlas/social-media-agent-skills
   /plugin install scrapeatlas@scrapeatlas
   ```
 - **Codex:** `codex mcp add scrapeatlas --url https://api.scrapeatlas.com/mcp`, then `codex mcp login scrapeatlas`.
@@ -73,7 +73,7 @@ start with free credits.
 Install one skill:
 
 ```bash
-npx skills add OnlineDopamine/social-media-agent-skills --skill outlier-post-finder
+npx skills add ScrapeAtlas/social-media-agent-skills --skill outlier-post-finder
 ```
 
 ## Example prompts
